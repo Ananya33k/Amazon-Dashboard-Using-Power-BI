@@ -1,1 +1,6 @@
 # Amazon-Dashboard-Using-Power-BI
+
+The objective of analyzing Amazon sales data from 2012 to 2015 using Power BI is to extract valuable insights that inform strategic decision-making and operational improvements. By leveraging three core datasets—Orders, People, and Returns—we aim to uncover critical information such as the most profitable products and categories, trends in sales and profitability over time, top customers by order frequency and value, and patterns of returned orders. Additionally, the analysis will quantify the total number of unique products sold during the specified period, providing a comprehensive view of product diversity and market penetration.
+
+Through Power BI's robust analytics capabilities, we intend to visualize these insights in clear, interactive dashboards and reports. This approach not only enhances our understanding of Amazon sales dynamics but also empowers us to optimize inventory management, refine marketing strategies, and enhance customer satisfaction by addressing return trends effectively. Ultimately, the objective is to translate data-driven findings into actionable strategies that drive revenue growth and operational efficiency, ensuring our competitiveness in the dynamic e-commerce landscape.
+
